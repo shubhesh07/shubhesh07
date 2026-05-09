@@ -60,20 +60,6 @@ I build high-throughput distributed systems by day and open-source developer too
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=shubhesh07&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubhesh07&layout=compact&theme=github_dark&hide_border=true&langs_count=6" alt="Top Languages" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhesh07&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p>
   <a href="https://linkedin.com/in/shubheshshukla7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &ensp;
